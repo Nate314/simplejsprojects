@@ -37,3 +37,4 @@ function type(wpm) {
 }
 
 type(120);
+console.log(`%cYou have loaded Nate314's typeracer assister!\nThis was written in js and will run automatically Once the typing race starts. All you have to do is move the mouse around in the typing text box.`, `color:white; font-size:2em; font-family:monospace; background: url(https://play.typeracer.com/bg.cache.png)`);
