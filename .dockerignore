@@ -1,0 +1,12 @@
+.git
+.env
+compose-launcher
+.gitignore
+.gitattributes
+.gitmodules
+.dockerignore
+Dockerfile
+docker-compose.yml
+run.conf
+run.ps1
+run.sh
